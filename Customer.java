@@ -1,5 +1,5 @@
 package com.cg.demo.pc2;
-
+//changes
 public class Customer {
 	
 	int cid;
