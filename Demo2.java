@@ -9,5 +9,7 @@ public class Demo2 {
 //		System.out.println(Demo1.protectedField); // CE
 //		System.out.println(Demo1.packageField); // CE
 //		System.out.println(Demo1.privateField); // CE 
+//demopgm
+
 	}
 }
