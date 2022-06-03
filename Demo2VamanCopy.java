@@ -6,7 +6,7 @@ public class Demo2 {
 
 	public static void main(String[] args) {
 		System.out.println(Demo1.publicField);
-//		System.out.println//		System.out.println//		System.out.println(Demo1.protectedField); // CE
+//		System.out.println(Demo1.protectedField); // CE
 //		System.out.println(Demo1.packageField); // CE
 //		System.out.println(Demo1.privateField); // CE 
 //demopgm
